@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  BookingApp
+
+  Created by sravan on 5/5/21.
+  Copyright © 2021 zenchef. All rights reserved.
+*/
+
+
+"Name" = "Name";
+"Status" = "Status";
+"Gender" = "Gender";
+"Email" = "Email";
+"Phone Number" = "Phone Number";
+"Booking Status" = "Booking Status";
+"Change Status" = "Change Status";
+"Home" = "Home";
+"Bookings" = "Bookings";
+"Setting" = "Settings";
+"Confirm" = "Confirm";
+"Waiting" = "Waiting";
+"Cancel" = "Cancel";
+"User Details" = "User Details";
